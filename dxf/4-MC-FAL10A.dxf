@@ -1115,9 +1115,9 @@ AcDbViewportTableRecord
  21
 1
  12
-276.3827392120075
+232.6792899408284
  22
-151.2861163227017
+150.2573964497041
  13
 0
  23
@@ -1143,9 +1143,9 @@ AcDbViewportTableRecord
  37
 0
  40
-308.1444652908067
+304.0295857988166
  41
-2.227848101265823
+1.680924855491329
  42
 50
  43
@@ -23259,13 +23259,13 @@ Terminal-in-0
  45
 1
   0
-MTEXT
+LINE
   5
 2E9
 100
 AcDbEntity
   8
-frame-title
+schematic
   6
 ByLayer
  62
@@ -23273,37 +23273,15 @@ ByLayer
 370
    -1
 100
-AcDbMText
+AcDbLine
  10
-303
+61.8788551903834
  20
-35
- 30
-0
- 40
-3
- 41
-39.24999936399396
- 71
-    1
- 72
-    1
-  1
-Schema: MC-FAL10A\PAutore: Belardi\PData: 01/16\PFoglio: 4 di 16
-  7
-standard
-210
-0
-220
-0
-230
-1
- 50
-0
- 73
-    2
- 44
-1
+33.43424941905594
+ 11
+64.8788551903834
+ 21
+33.43424941905594
   0
 LINE
   5
@@ -23321,30 +23299,6 @@ ByLayer
 100
 AcDbLine
  10
-61.8788551903834
- 20
-33.43424941905594
- 11
-64.8788551903834
- 21
-33.43424941905594
-  0
-LINE
-  5
-2EB
-100
-AcDbEntity
-  8
-schematic
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
 64.8788551903834
  20
 33.43424941905594
@@ -23355,7 +23309,7 @@ AcDbLine
   0
 LINE
   5
-2EC
+2EB
 100
 AcDbEntity
   8
@@ -23379,7 +23333,7 @@ AcDbLine
   0
 LINE
   5
-2ED
+2EC
 100
 AcDbEntity
   8
@@ -23403,7 +23357,7 @@ AcDbLine
   0
 MTEXT
   5
-2EE
+2ED
 100
 AcDbEntity
   8
@@ -23449,7 +23403,7 @@ standard
   0
 INSERT
   5
-2EF
+2EE
 100
 AcDbEntity
   8
@@ -23489,7 +23443,7 @@ Terminal-in-0
   0
 LINE
   5
-2F0
+2EF
 100
 AcDbEntity
   8
@@ -23510,6 +23464,52 @@ AcDbLine
 61.91366303494784
  21
 33.46927001744282
+  0
+MTEXT
+  5
+2F0
+100
+AcDbEntity
+  8
+frame-title
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+303
+ 20
+35
+ 30
+0
+ 40
+3
+ 41
+39.24999936399396
+ 71
+    1
+ 72
+    1
+  1
+Schema: MC-FAL10A\PFoglio: 4 di 16
+  7
+standard
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
   0
 ENDSEC
   0
