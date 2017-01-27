@@ -2401,7 +2401,7 @@ AcDbSymbolTableRecord
 100
 AcDbTextStyleTableRecord
   2
-standard
+iso
  70
     0
  40
@@ -2415,7 +2415,7 @@ standard
  42
 1
   3
-standard
+iso
   4
 
   0
@@ -2429,7 +2429,7 @@ AcDbSymbolTableRecord
 100
 AcDbTextStyleTableRecord
   2
-iso
+standard
  70
     0
  40
@@ -2443,7 +2443,7 @@ iso
  42
 1
   3
-iso
+standard
   4
 
   0
@@ -9095,11 +9095,11 @@ RTE ELETTRONICO\PF8                     FUSIBILE PATTINO RETRATTILE\PF9-F10     
   3
 MANOVRA\PTR1                    TRASFORMATORE MONOFASE ALIMENTAZIONE QUADRO\PTR2                    TRASFORMATORE MONOFASE ALIMENTAZIONE QUADRO\P\PMCP2015X-SMD           SCHEDA MADRE MICROPROCESSORE\PPER16B-SMD             SCHEDA PERIFERICA DI ESPANS
   3
-IONE\PL1307                  SCHEDA LEGGE 13\P\PTM-TM1                 TELERUTTORI MARCIA\PRF                     RELÈ FRENO\PRP                     RELÈ PATTINO\PAP1-AP2                RELÈ APERTURA\PCP1-CP2                RELÈ CHIUSURA\PRL1    
+IONE\PL1307                  SCHEDA LEGGE 13\PL1000A                 VVVF YASKAWA L1000A\P\PTM-TM1                 TELERUTTORI MARCIA\PRF                     RELÈ FRENO\PRP                     RELÈ PATTINO\PAP1-AP2                RELÈ APERTURA\PCP
   3
-                RELÈ RALL.OPERATORE 48VCC LATO1\PRL2                    RELÈ RALL.OPERATORE 48VCC LATO2\PRVF                    RELÈ VENTOLA MOTORE\PRD1                    RADDRIZZATORE MANOVRA\PRD2                    RADDRIZZATORE LUMINOSE\PRD3  
+1-CP2                RELÈ CHIUSURA\PRL1                    RELÈ RALL.OPERATORE 48VCC LATO1\PRL2                    RELÈ RALL.OPERATORE 48VCC LATO2\PRVF                    RELÈ VENTOLA MOTORE\PRD1                    RADDRIZZATORE MANOVRA\PRD2     
   1
-                  RADDRIZZATORE FRENO\PRD4                    RADDRIZZATORE PATTINO\PRD5-RD6                RADDRIZZATORI OPERATORI PORTE 4VCC\P
+               RADDRIZZATORE LUMINOSE\PRD3                    RADDRIZZATORE FRENO\PRD4                    RADDRIZZATORE PATTINO\PRD5-RD6                RADDRIZZATORI OPERATORI PORTE 4VCC\P
   7
 standard
 210
