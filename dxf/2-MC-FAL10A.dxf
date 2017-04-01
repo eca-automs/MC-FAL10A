@@ -23,17 +23,17 @@ $INSBASE
   9
 $EXTMIN
  10
--0.5
+10000000000
  20
-0.25
+10000000000
  30
 0
   9
 $EXTMAX
  10
-419.5
+-10000000000
  20
-297.25
+-10000000000
  30
 0
   9
@@ -28699,52 +28699,6 @@ MTEXT
 100
 AcDbEntity
   8
-labels
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbMText
- 10
-75.11667215155946
- 20
-271.8557484503764
- 30
-0
- 40
-3
- 41
-29.33333333333333
- 71
-    1
- 72
-    1
-  1
-BOTTONIERA\PMANUTENZIONE\PCABINA\P(vedi pag. 2)
-  7
-standard
-210
-0
-220
-0
-230
-1
- 50
-0
- 73
-    2
- 44
-1
-  0
-MTEXT
-  5
-3C2
-100
-AcDbEntity
-  8
 frame-title
   6
 ByLayer
@@ -28770,6 +28724,52 @@ AcDbMText
     1
   1
 Schema: MC-FAL10A\PFoglio: 2 di 16
+  7
+standard
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
+  0
+MTEXT
+  5
+3C2
+100
+AcDbEntity
+  8
+labels
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+75.11667215155946
+ 20
+271.8557484503764
+ 30
+0
+ 40
+3
+ 41
+29.33333333333333
+ 71
+    1
+ 72
+    1
+  1
+BOTTONIERA\PMANUTENZIONE\PCABINA\P(vedi pag. 3)
   7
 standard
 210
