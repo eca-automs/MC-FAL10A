@@ -1,6 +1,4 @@
-# MC-FAL10A
-![electric_panel_icon](res/el_icon_4.jpg)
-## Schema per quadro elettrico per ascensore
+# Schema per quadro elettrico per ascensore - MC-FAL10A
 
 ### Scheda controllo
 MCPX2015-SMD - PER16B-SMD
