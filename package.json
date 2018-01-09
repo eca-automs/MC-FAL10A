@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@gitlab.com:eca-automs/schematics/MC-FAL10A.git"
+    "url": "git@github.com:eca-automs/schematics/MC-FAL10A.git"
   },
   "author": "Roberto Belardi",
   "license": "GPL-3.0",
