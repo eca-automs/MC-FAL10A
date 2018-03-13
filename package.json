@@ -12,7 +12,7 @@
     "type": "git",
     "url": "git@github.com:eca-automs/schematics/MC-FAL10A.git"
   },
-  "author": "Roberto Belardi",
+  "author": "Eca di Belardi Roberto",
   "license": "GPL-3.0",
   "devDependencies": {
     "chalk": "^2.2.0",
