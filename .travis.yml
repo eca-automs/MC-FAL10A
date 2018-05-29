@@ -22,7 +22,7 @@ branches:
 deploy:
   - provider: s3
     skip_cleanup: true
-    upload-dir: "$(npm run doc:id)"
+    upload-dir: MC-FAL10A
     local_dir: ecadoc
     bucket: "$PRODUCTION_BUCKET"
     region: "$AWS_REGION"
@@ -32,7 +32,7 @@ deploy:
       condition: $TRAVIS_TAG =~ ^v[0-9]+\.[0-9]+\.[0-9]+$
   - provider: s3
     skip_cleanup: true
-    upload-dir: "$(npm run doc:id)"
+    upload-dir: MC-FAL10A
     local_dir: ecadoc
     bucket: "$TESTING_BUCKET"
     region: "$AWS_REGION"
