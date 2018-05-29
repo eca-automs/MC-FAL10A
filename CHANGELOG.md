@@ -3,6 +3,11 @@
 
 
 
+<a name="0.2.1"></a>
+## [0.2.1](https://github.com/eca-automs/schematics/MC-FAL10A/compare/v0.2.1-beta.0...v0.2.1) (2018-05-29)
+
+
+
 <a name="0.2.1-beta.0"></a>
 ## [0.2.1-beta.0](https://github.com/eca-automs/schematics/MC-FAL10A/compare/v0.2.1...v0.2.1-beta.0) (2018-05-29)
 
