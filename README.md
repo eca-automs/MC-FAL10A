@@ -1,5 +1,3 @@
-[English](./README.md) | [Italiano](./README_it.md)
-
 # MC-FAL10A
 
 Schema per quadro elettrico per ascensore,
@@ -57,8 +55,12 @@ S40|29CV-400VAC
 
 ### Gestione Emergenza
 
-Nessuna.
+Nessuna gestione.
 
 ### Gestione emendamento A3
 
-Nessuna.
+Nessuna gestione.
+
+### Gestione EN8120
+
+Nessuna gestione.
